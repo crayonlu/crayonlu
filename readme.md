@@ -19,17 +19,18 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/CrayonCreator/CrayonCreator/snake/github-contribution-grid-snake.svg" alt="Snake animation">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📊 GitHub 统计 | Stats
 
 [![3D Language Radar](https://skillicons.dev/icons?i=js,ts,vue,html,css&theme=light&perline=5)](https://skillicons.dev)
 
 <p align="center">
-  ![Wakatime Stats](https://wakatime.com/badge/user/Crayon.svg)
-  ![Languages](https://wakatime.com/share/Crayon/your-repo-name.svg)
+  <img src="https://wakatime.com/badge/user/493754fa-a87a-40a4-afc6-62a4b8f68adf.svg" alt="Wakatime Stats" />
+  <br/>
+  <img src="[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Crayon)](https://github.com/anuraghazra/github-readme-stats)" alt="WakaTime Languages" width="70%" />
 </p>
 
 <p align="center">
@@ -47,7 +48,7 @@
 ![GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=CrayonCreator&theme=github)
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/CrayonCreator/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrayonCreator&layout=donut-vertical&theme=radical" alt="Top Langs" width="30%" />
   </a>
 </div>
