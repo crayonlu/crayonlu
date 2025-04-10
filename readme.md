@@ -16,8 +16,8 @@
 </picture>
 
 <!-- 保留Skyline引用 -->
-<a href="https://skyline.github.com/CrayonCreator/2024" target="_blank">
-  <img src="https://skyline.github.com/CrayonCreator/2024.png" alt="3D GitHub Skyline" width="600">
+<a href="https://skyline.github.com/CrayonCreator/2023" target="_blank">
+  <img src="https://skyline.github.com/CrayonCreator/2023.png" alt="3D GitHub Skyline" width="600">
 </a>
 
 ## 📊 统计 | Stats
@@ -27,10 +27,10 @@
   <img src="https://github-profile-trophy.vercel.app/?username=CrayonCreator&theme=tokyonight&no-frame=true&row=1&column=7" width="100%" alt="Trophy" />
 </a>
 
-<!-- GitHub统计信息 - 统一使用tokyonight主题 -->
+<!-- GitHub统计信息 - 使用Vercel托管的Streak Stats -->
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=CrayonCreator&theme=tokyonight&show_icons=true&hide_border=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=CrayonCreator&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=CrayonCreator&theme=tokyonight&hide_border=true" />
 </p>
 
 <!-- 使用3D效果的语言统计 -->
