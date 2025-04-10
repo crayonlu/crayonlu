@@ -16,8 +16,8 @@
 </picture>
 
 <!-- 保留Skyline引用 -->
-<a href="https://skyline.github.com/CrayonCreator/2025" target="_blank">
-  <img src="https://skyline.github.com/CrayonCreator/2025.png" alt="3D GitHub Skyline" width="600">
+<a href="https://skyline.github.com/CrayonCreator/2024" target="_blank">
+  <img src="https://skyline.github.com/CrayonCreator/2024.png" alt="3D GitHub Skyline" width="600">
 </a>
 
 ## 📊 统计 | Stats
