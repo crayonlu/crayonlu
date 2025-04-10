@@ -1,0 +1,22 @@
+{
+  "preset": "ball",
+  "colors": {
+    "background": "#1a1b27",
+    "surface": "#283593",
+    "highlight": "#039be5",
+    "text": "#ffffff"
+  },
+  "models": {
+    "skills": {
+      "JavaScript": {"icon": "js", "position": [0, 0, 0], "scale": 1.2},
+      "TypeScript": {"icon": "ts", "position": [1, 0, 0], "scale": 1.2},
+      "Vue": {"icon": "vue", "position": [2, 0, 0], "scale": 1.2},
+      "Node.js": {"icon": "nodejs", "position": [3, 0, 0], "scale": 1.2}
+    }
+  },
+  "animation": {
+    "enabled": true,
+    "speed": 0.5,
+    "autoRotate": true
+  }
+}
