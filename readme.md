@@ -8,21 +8,14 @@
 - 🏢 BingYanStudio FE
 - 😎 Coding & Studying
 
-<!-- 3D贡献图 - 需要在GitHub Actions中设置才能生效 -->
+<!-- 简化3D贡献图显示，避免重复和错误引用 -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CrayonCreator/CrayonCreator/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CrayonCreator/CrayonCreator/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/CrayonCreator/CrayonCreator/output/github-contribution-grid-snake.svg">
 </picture>
 
-<!-- 在About Me部分下方添加3D蛇形图 -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CrayonCreator/CrayonCreator/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CrayonCreator/CrayonCreator/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/CrayonCreator/CrayonCreator/output/github-contribution-grid-snake-3d.svg">
-</picture>
-
-<!-- 添加GitHub 3D贡献图 -->
+<!-- 使用2025年的Skyline -->
 <a href="https://skyline.github.com/CrayonCreator/2025" target="_blank">
   <img src="https://skyline.github.com/CrayonCreator/2025.png" alt="3D GitHub Skyline" width="600">
 </a>
