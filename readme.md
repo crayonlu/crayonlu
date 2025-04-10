@@ -15,11 +15,6 @@
   <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/CrayonCreator/CrayonCreator/output/github-snake.svg">
 </picture>
 
-<!-- 保留Skyline引用 -->
-<a href="https://skyline.github.com/CrayonCreator/2023" target="_blank">
-  <img src="https://skyline.github.com/CrayonCreator/2023.png" alt="3D GitHub Skyline" width="600">
-</a>
-
 ## 📊 统计 | Stats
 
 <!-- GitHub奖杯 - 3D效果 -->
@@ -30,7 +25,6 @@
 <!-- GitHub统计信息 - 使用Vercel托管的Streak Stats -->
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=CrayonCreator&theme=tokyonight&show_icons=true&hide_border=true" />
-  <img width="49%" src="https://streak-stats.demolab.com/?user=CrayonCreator&theme=tokyonight&hide_border=true" />
 </p>
 
 <!-- 使用3D效果的语言统计 -->
