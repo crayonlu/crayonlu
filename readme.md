@@ -8,14 +8,14 @@
 - 🏢 BingYanStudio FE
 - 😎 Coding & Studying
 
-<!-- 简化3D贡献图显示，避免重复和错误引用 -->
+<!-- 更新蛇形动画引用路径 -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CrayonCreator/CrayonCreator/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CrayonCreator/CrayonCreator/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/CrayonCreator/CrayonCreator/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CrayonCreator/CrayonCreator/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CrayonCreator/CrayonCreator/output/github-snake.svg">
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/CrayonCreator/CrayonCreator/output/github-snake.svg">
 </picture>
 
-<!-- 使用2025年的Skyline -->
+<!-- 保留Skyline引用 -->
 <a href="https://skyline.github.com/CrayonCreator/2025" target="_blank">
   <img src="https://skyline.github.com/CrayonCreator/2025.png" alt="3D GitHub Skyline" width="600">
 </a>
