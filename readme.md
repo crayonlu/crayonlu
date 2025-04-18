@@ -53,10 +53,10 @@
 ###
 
 <div align="left">
-  <a href="lululu.creator@gmail.com" target="_blank">
+  <a href="mailto:lululu.creator@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=EMAIL&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="crayoooon@outlook.com" target="_blank">
+  <a href="mailto:crayoooon@outlook.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=EAMIL&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
   </a>
 </div>
