@@ -18,17 +18,28 @@ jobs:
     timeout-minutes: 5
 
     steps:
+      # 先检出output分支，确保我们不会覆盖现有内容
+      - name: Checkout output branch
+        uses: actions/checkout@v3
+        with:
+          ref: output
+          path: output
+
       - name: generate snake.svg
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: dist/snake.svg?palette=github-dark
 
-
+      - name: Copy snake.svg to output directory
+        run: |
+          cp dist/snake.svg output/
+          
       - name: push snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
-          build_dir: dist
+          build_dir: output
+          keep_history: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
