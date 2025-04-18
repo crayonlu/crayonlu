@@ -1,95 +1,84 @@
+<h2 align="center">Hi 👋! My name is Crayon and I'm a CSE student from HUST and  a mumber of BingYan Studio</h2>
+
+###
+
 <div align="center">
-  
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm CrayonCreator
+  <img src="https://github-readme-stats.vercel.app/api?username=CrayonCreator&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=CrayonCreator&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CrayonCreator&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-## 🚀 关于我 | About Me
+###
 
-- 🎓 HUST CSE
-- 🏢 BingYanStudio FE
-- 😎 Coding & Studying
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-<!-- 更新蛇形动画引用路径 -->
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="30" alt="chrome logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="30" alt="yarn logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="vuejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" height="30" alt="nuxtjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/denojs/denojs-original.svg" height="30" alt="denojs logo"  />
+</div>
+
+###
+
+<div align="left">
+  <a href="lululu.creator@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=EMAIL&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="crayoooon@outlook.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=EAMIL&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/CrayonCreator/CrayonCreator/output/snake.svg" alt="Snake animation" />
+
+###
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CrayonCreator/CrayonCreator/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CrayonCreator/CrayonCreator/output/github-snake.svg">
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/CrayonCreator/CrayonCreator/output/github-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CrayonCreator/CrayonCreator/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CrayonCreator/CrayonCreator/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/CrayonCreator/CrayonCreator/output/pacman-contribution-graph.svg">
 </picture>
 
-## 📊 统计 | Stats
-
-<!-- GitHub奖杯 - 3D效果 -->
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=CrayonCreator&theme=tokyonight&no-frame=true&row=1&column=7" width="100%" alt="Trophy" />
-</a>
-
-<!-- GitHub统计信息 - 使用Vercel托管的Streak Stats -->
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=CrayonCreator&theme=tokyonight&show_icons=true&hide_border=true" />
-</p>
-
-<!-- 使用3D效果的语言统计 -->
-<a href="https://github.com/CrayonCreator/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrayonCreator&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" width="49%" />
-</a>
-
-<p align="center">
-  <img src="https://wakatime.com/badge/user/493754fa-a87a-40a4-afc6-62a4b8f68adf.svg?style=flat-square" alt="Wakatime Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Crayon&theme=tokyonight&hide_border=true&layout=compact" alt="WakaTime Languages" width="70%" />
-</p>
-
-<!-- 活动图 - 保持tokyonight主题 -->
-<a href="https://github.com/CrayonCreator">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CrayonCreator&theme=tokyo-night&hide_border=true" width="100%" alt="Activity Graph">
-</a>
-
-## 💻 技术栈 | Tech Stack
-
-<!-- 使用更简洁的技术图标 - 删除GIF动画，使用静态图标 -->
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,vue,html,css,nuxtjs,nodejs,deno,git,vscode&theme=dark" alt="Skills" />
-</p>
-
-<!-- 使用统一风格的技术栏 -->
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=1a1b27" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=1a1b27" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white&labelColor=1a1b27" alt="Vue" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=1a1b27" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=1a1b27" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white&labelColor=1a1b27" alt="Nuxt.js" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=1a1b27" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Deno-000000?style=for-the-badge&logo=deno&logoColor=white&labelColor=1a1b27" alt="Deno" />
-  <img src="https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white&labelColor=1a1b27" alt="Bun" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=1a1b27" alt="Git" />
-</p>
-
-## 🔥 项目展示 | Projects
-
-<p align="center">
-  <a href="https://github.com/CrayonCreator/DownloadMusicTool">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CrayonCreator&repo=DownloadMusicTool&theme=tokyonight" width="49%" />
-  </a>
-  <a href="https://github.com/CrayonCreator/CrayonBlog">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CrayonCreator&repo=CrayonBlog&theme=tokyonight" width="49%" />
-  </a>
-</p>
-
-## 📫 联系我 | Contact Me
-
-<p align="center">
-  <a href="mailto:crayooon@163.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/CrayonCreator">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/CrayonCreator/count.svg" alt="访问计数器" />
+  <img src="https://profile-counter.glitch.me/CrayonCreator/count.svg?"  />
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
-
-</div>
+###
