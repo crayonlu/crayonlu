@@ -3,18 +3,29 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CrayonCreator&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=CrayonCreator&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CrayonCreator&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <p align="center">
+      <img src="https://wakatime.com/badge/user/493754fa-a87a-40a4-afc6-62a4b8f68adf.svg?style=flat-square" alt="Wakatime Stats" />
+  </p>
+  <img src="https://github-readme-stats.vercel.app/api?username=CrayonCreator&theme=tokyonight&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=CrayonCreator&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
+  <a href="https://github.com/CrayonCreator/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrayonCreator&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" width="49%" />
+  </a>
+
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Crayon&theme=tokyonight&hide_border=true&layout=compact" alt="WakaTime Languages" width="70%" />
+  </p>
+
+  <a href="https://github.com/CrayonCreator">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=CrayonCreator&theme=tokyo-night&hide_border=true" width="100%" alt="Activity Graph">
+  </a>
 </div>
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
@@ -48,11 +59,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/denojs/denojs-original.svg" height="30" alt="denojs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bun/bun-original.svg" height="30" alt="bun logo"  />
+
 </div>
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="mailto:lululu.creator@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=EMAIL&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
