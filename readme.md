@@ -92,6 +92,7 @@
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/CrayonCreator/count.svg?"  />
+   <img src="https://count.getloli.com/@Crayon?name=Crayon&theme=capoo-2&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto"  />
 </div>
 
 ###
