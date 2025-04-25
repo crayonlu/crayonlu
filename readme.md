@@ -6,7 +6,7 @@
   <p align="center">
       <img src="https://wakatime.com/badge/user/493754fa-a87a-40a4-afc6-62a4b8f68adf.svg?style=flat-square" alt="Wakatime Stats" />
   </p>
-  <img src="https://github-readme-stats.vercel.app/api?username=CrayonCreator&theme=tokyonight&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=CrayonCreator&theme=tokyonight&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=CrayonCreator&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
   <a href="https://github.com/CrayonCreator/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrayonCreator&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" width="49%" />
