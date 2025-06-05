@@ -1,17 +1,20 @@
-<div align="center">
+<div align="left">
 
-# Hi there! I'm Crayon 👋
+### Hi there! I'm Crayon 👋
 
 **Cyber Security Student @ HUST** • **Member of BingYan Studio**
 
 </div>
 
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; align-items: start;">
-<div style="display: flex; flex-direction: column; height: 100%;">
+<div style=" text-align: left;">
+<div style="display:flex;align-items:center;">
+<img style="width:20%;" src="https://count.getloli.com/@Crayon?name=Crayon&theme=capoo-2&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto" style="margin-top: 8px;">
+<img src="https://wakatime.com/badge/user/493754fa-a87a-40a4-afc6-62a4b8f68adf.svg" height="18"><br>
+</div>
 
-### 🛠 Tech Stack
+#### Tech Stack
 
-<div style="display: flex; flex-direction: column; gap: 4px; text-align: left;">
+<div style="display: flex; flex-direction: column; gap: 4px;">
 
 <div style="display: flex; flex-wrap: wrap; gap: 4px;">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="22">
@@ -52,23 +55,14 @@
 
 </div>
 
-<p align="center" style="margin-top: auto; padding-top: 15px;">
-<img src="https://wakatime.com/badge/user/493754fa-a87a-40a4-afc6-62a4b8f68adf.svg" height="18"><br>
-<img src="https://count.getloli.com/@Crayon?name=Crayon&theme=capoo-2&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto" style="margin-top: 8px;">
-</p>
-
-</div>
-<div style="display: flex; flex-direction: column;">
-
-### 📊 Coding Stats
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Crayon&theme=prussian&hide_border=true&layout=pie&langs_count=20" width="100%" style="min-height: 300px;">
-
-</div>
 </div>
 
-<div align="center" style="margin-top: 20px;">
+<div align="left" >
 
-🚀 Passionate about **open-source** • 🌱 Always **learning** • 💡 Love **problem solving**
+#### Coding Stats
+
+<img style="width:30%;" src="https://github-readme-stats.vercel.app/api/wakatime?username=Crayon&theme=prussian&hide_border=true&layout=pie&langs_count=20" width="60%">
+
 
 </div>
+
