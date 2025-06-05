@@ -1,59 +1,74 @@
-<h2 align="center">Hi 👋! My name is Crayon<br>A CSE student from HUST and mumber of BingYan Studio</h2>
-
-<div align="center" >
-  <img src="https://wakatime.com/badge/user/493754fa-a87a-40a4-afc6-62a4b8f68adf.svg?style=flat-square" alt="Wakatime Stats" />
-  <div style="display: flex; justify-content: space-between; gap: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrayonCreator&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" width="49%" />
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Crayon&theme=tokyonight&hide_border=true&layout=compact" alt="WakaTime Languages" width="49%" />
-  </div>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CrayonCreator&theme=tokyo-night&hide_border=true" width="100%" alt="Activity Graph">
-</div>
-<!-- <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="30" alt="chrome logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="30" alt="yarn logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="vuejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" height="30" alt="nuxtjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/denojs/denojs-original.svg" height="30" alt="denojs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bun/bun-original.svg" height="30" alt="bun logo"  />
-</div> -->
-<!-- <div align="center">
-  <a href="mailto:lululu.creator@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=EMAIL&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="mailto:crayoooon@outlook.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=EAMIL&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
-  </a>
-</div> -->
-<img src="https://raw.githubusercontent.com/CrayonCreator/CrayonCreator/output/snake.svg" alt="Snake animation" />
 <div align="center">
-  <img src="https://count.getloli.com/@Crayon?name=Crayon&theme=capoo-2&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto"  />
+
+# Hi there! I'm Crayon 👋
+
+**Cyber Security Student @ HUST** • **Member of BingYan Studio**
+
 </div>
 
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; align-items: start;">
+<div style="display: flex; flex-direction: column; height: 100%;">
+
+### 🛠 Tech Stack
+
+<div style="display: flex; flex-direction: column; gap: 4px; text-align: left;">
+
+<div style="display: flex; flex-wrap: wrap; gap: 4px;">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="22">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" height="22">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="22">
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" height="22">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 4px;">
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" height="22">
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" height="22">
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" height="22">
+<img src="https://img.shields.io/badge/Nuxt.js-00C58E?style=for-the-badge&logo=nuxt.js&logoColor=white" height="22">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 4px;">
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" height="22">
+<img src="https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white" height="22">
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" height="22">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 4px;">
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" height="22">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="22">
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 4px;">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="22">
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" height="22">
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" height="22">
+<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" height="22">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="22">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="22">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="22">
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" height="22">
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" height="22">
+</div>
+
+</div>
+
+<p align="center" style="margin-top: auto; padding-top: 15px;">
+<img src="https://wakatime.com/badge/user/493754fa-a87a-40a4-afc6-62a4b8f68adf.svg" height="18"><br>
+<img src="https://count.getloli.com/@Crayon?name=Crayon&theme=capoo-2&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto" style="margin-top: 8px;">
+</p>
+
+</div>
+<div style="display: flex; flex-direction: column;">
+
+### 📊 Coding Stats
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Crayon&theme=prussian&hide_border=true&layout=pie&langs_count=20" width="100%" style="min-height: 300px;">
+
+</div>
+</div>
+
+<div align="center" style="margin-top: 20px;">
+
+🚀 Passionate about **open-source** • 🌱 Always **learning** • 💡 Love **problem solving**
+
+</div>
