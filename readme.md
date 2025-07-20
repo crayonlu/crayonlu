@@ -66,39 +66,6 @@
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.7%20million%20lines%20of%20code-blue)
 
-**🐱 My GitHub Data** 
-
-> 📦 164.7 kB Used in GitHub's Storage 
- > 
-> 🏆 550 Contributions in the Year 2025
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 19 Public Repositories 
- > 
-> 🔑 8 Private Repositories 
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                71 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
-🌆 Daytime                292 commits         ███████████░░░░░░░░░░░░░░   42.20 % 
-🌃 Evening                296 commits         ███████████░░░░░░░░░░░░░░   42.77 % 
-🌙 Night                  33 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.77 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   71 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
-Tuesday                  81 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.71 % 
-Wednesday                119 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.20 % 
-Thursday                 73 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.55 % 
-Friday                   82 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
-Saturday                 84 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.14 % 
-Sunday                   182 commits         ███████░░░░░░░░░░░░░░░░░░   26.30 % 
-```
-
-
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -111,7 +78,6 @@ Groovy                   10 mins             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 20/07/2025 05:02:42 UTC
 <!--END_SECTION:waka-->
 
 <!-- <img style="width:30%;" src="https://github-readme-stats.vercel.app/api/wakatime?username=Crayon&theme=prussian&hide_border=true&layout=pie&langs_count=20" width="60%"> -->
