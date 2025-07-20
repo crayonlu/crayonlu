@@ -61,6 +61,9 @@
 
 #### Coding Stats
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <img style="width:30%;" src="https://github-readme-stats.vercel.app/api/wakatime?username=Crayon&theme=prussian&hide_border=true&layout=pie&langs_count=20" width="60%">
 
 
