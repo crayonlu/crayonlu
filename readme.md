@@ -9,7 +9,7 @@
 <div style=" text-align: left;">
 <div style="display:flex;align-items:center;">
 <img style="width:20%;" src="https://count.getloli.com/@Crayon?name=Crayon&theme=capoo-2&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto" style="margin-top: 8px;">
-<img src="https://wakatime.com/badge/user/493754fa-a87a-40a4-afc6-62a4b8f68adf.svg" height="18"><br>
+<!-- <img src="https://wakatime.com/badge/user/493754fa-a87a-40a4-afc6-62a4b8f68adf.svg" height="18"><br> -->
 </div>
 
 #### Tech Stack
@@ -141,7 +141,7 @@ Python                   2 repos             ██░░░░░░░░░�
  Last Updated on 20/07/2025 04:57:04 UTC
 <!--END_SECTION:waka-->
 
-<img style="width:30%;" src="https://github-readme-stats.vercel.app/api/wakatime?username=Crayon&theme=prussian&hide_border=true&layout=pie&langs_count=20" width="60%">
+<!-- <img style="width:30%;" src="https://github-readme-stats.vercel.app/api/wakatime?username=Crayon&theme=prussian&hide_border=true&layout=pie&langs_count=20" width="60%"> -->
 
 
 </div>
