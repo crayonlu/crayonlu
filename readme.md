@@ -71,8 +71,19 @@
 
 <div align="left" >
 
+#### Coding Stats
 
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-401%20hrs%2033%20mins-blue)
 
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.9%20million%20lines%20of%20code-blue)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+```
 <!--END_SECTION:waka-->
 
 <!-- <img style="width:30%;" src="https://github-readme-stats.vercel.app/api/wakatime?username=Crayon&theme=prussian&hide_border=true&layout=pie&langs_count=20" width="60%"> -->
