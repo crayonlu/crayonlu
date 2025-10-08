@@ -74,16 +74,22 @@
 #### Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-401%20hrs%2033%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-511%20hrs%2035%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.9%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.4%20million%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               5 hrs 53 mins       █████████████████░░░░░░░░   67.19 % 
+Markdown                 47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.04 % 
+JSON                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
+YAML                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
+JavaScript               24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
 ```
+
+
 <!--END_SECTION:waka-->
 
 <!-- <img style="width:30%;" src="https://github-readme-stats.vercel.app/api/wakatime?username=Crayon&theme=prussian&hide_border=true&layout=pie&langs_count=20" width="60%"> -->
