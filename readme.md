@@ -76,7 +76,7 @@
 #### Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-755%20hrs%2043%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-757%20hrs%2045%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.62%20million%20lines%20of%20code-blue?style=flat)
 
@@ -84,8 +84,9 @@
 
 ```text
 💬 Programming Languages: 
-SQL                      10 mins             ████████████████████████░   95.58 % 
-Rust                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
+Rust                     1 hr 20 mins        ███████████████░░░░░░░░░░   60.61 % 
+TypeScript               35 mins             ███████░░░░░░░░░░░░░░░░░░   26.49 % 
+SQL                      17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
 ```
 
 
