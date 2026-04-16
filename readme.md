@@ -83,7 +83,7 @@
 #### Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-972%20hrs%202%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-976%20hrs%2052%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.04%20million%20lines%20of%20code-blue?style=flat)
 
@@ -91,11 +91,11 @@
 
 ```text
 💬 Programming Languages: 
-TypeScript               12 hrs 14 mins      █████████████████░░░░░░░░   67.25 % 
-JSON                     2 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.30 % 
-Markdown                 1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 % 
-JavaScript               44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
-Rust                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
+TypeScript               12 hrs 27 mins      ███████████████░░░░░░░░░░   58.06 % 
+JSON                     3 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.38 % 
+Vue                      1 hr 55 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.96 % 
+Markdown                 1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
+JavaScript               37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
 ```
 
 
