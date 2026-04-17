@@ -83,20 +83,7 @@
 #### Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-976%20hrs%2052%20mins-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.04%20million%20lines%20of%20code-blue?style=flat)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-TypeScript               12 hrs 27 mins      ███████████████░░░░░░░░░░   58.06 % 
-JSON                     3 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.38 % 
-Vue                      1 hr 55 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.96 % 
-Markdown                 1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
-JavaScript               37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
-```
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.06%20million%20lines%20of%20code-blue?style=flat)
 
 
 <!--END_SECTION:waka-->
