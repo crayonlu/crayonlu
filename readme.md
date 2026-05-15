@@ -85,18 +85,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C086%20hrs%207%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-12.41%20million%20lines%20of%20code-blue?style=flat)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-TypeScript               8 hrs 20 mins       ████████████░░░░░░░░░░░░░   46.84 % 
-Other                    2 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.14 % 
-Markdown                 1 hr 56 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.92 % 
-Rust                     1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 % 
-C#                       58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
-```
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-12.43%20million%20lines%20of%20code-blue?style=flat)
 
 
 <!--END_SECTION:waka-->
