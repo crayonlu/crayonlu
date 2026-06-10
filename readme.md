@@ -91,9 +91,7 @@
 
 ```text
 💬 Programming Languages: 
-JSON                     14 mins             █████████████░░░░░░░░░░░░   52.71 % 
-YAML                     12 mins             ███████████░░░░░░░░░░░░░░   45.87 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
+No Activity Tracked This Week
 ```
 
 
