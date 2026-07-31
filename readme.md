@@ -83,11 +83,48 @@
 #### Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C303%20hrs%2056%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C310%20hrs-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-165%20hrs%207%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-167%20hrs%206%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.99%20million%20lines%20of%20code-blue?style=flat)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+TypeScript               18 hrs 1 min        ██████████░░░░░░░░░░░░░░░   38.49 % 
+YAML                     8 hrs 45 mins       █████░░░░░░░░░░░░░░░░░░░░   18.72 % 
+Other                    4 hrs 34 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
+Python                   4 hrs 23 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.36 % 
+Swift                    3 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.65 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 28 hrs 33 mins (61.0%)
+
+✍️ 14,366 lines written by AI, 18,685 lines written by hand (43.47% AI-written)
+
+🔤 804,482,507 Input Tokens, 2,574,202 Output Tokens
+
+💵 $2163.82 Estimated AI Cost This Week
+
+🧠 117 AI Sessions, 576 AI Prompts
+
+GPT                      4,717 lines         █████████████░░░░░░░░░░░░   52.84 % 
+Composer                 4,210 lines         ████████████░░░░░░░░░░░░░   47.16 % 
+Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Glm                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+K                        0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+⚖️ Balanced with AI — 43.47% of written lines came from AI
+📚 Verbose Prompter — average 3,097 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🔍 Hands-On Reviewer — 71.33% of changed lines were hand-edited
+```
 
 
 <!--END_SECTION:waka-->
