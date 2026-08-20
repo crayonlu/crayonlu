@@ -83,9 +83,9 @@
 #### Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C402%20hrs%2032%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C406%20hrs%2036%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-225%20hrs%2024%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-228%20hrs%2047%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-18.63%20million%20lines%20of%20code-blue?style=flat)
 
@@ -93,36 +93,36 @@
 
 ```text
 💬 Programming Languages: 
-TypeScript               26 hrs 14 mins      ███████████████░░░░░░░░░░   59.87 % 
-Other                    7 hrs 13 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.48 % 
-Markdown                 1 hr 37 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
-Rust                     1 hr 32 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
-JSON                     1 hr 24 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
+TypeScript               21 hrs 4 mins       ██████████████░░░░░░░░░░░   54.63 % 
+Other                    8 hrs 39 mins       ██████░░░░░░░░░░░░░░░░░░░   22.46 % 
+JSON                     2 hrs 24 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.24 % 
+TOML                     1 hr 36 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
+YAML                     1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 24 hrs 43 mins (56.39%)
+⏱ AI Coding Time: 21 hrs 26 mins (55.59%)
 
-✍️ 13,377 lines written by AI, 10,234 lines written by hand (56.66% AI-written)
+✍️ 1,719 lines written by AI, 9,442 lines written by hand (15.4% AI-written)
 
-🔤 1,113,664,379 Input Tokens, 4,203,521 Output Tokens
+🔤 1,410,767,708 Input Tokens, 5,742,663 Output Tokens
 
-💵 $3483.57 Estimated AI Cost This Week
+💵 $4185.23 Estimated AI Cost This Week
 
-🧠 83 AI Sessions, 453 AI Prompts
+🧠 116 AI Sessions, 497 AI Prompts
 
-GPT                      13,691 lines        █████████████████████████   100.00 % 
+GPT                      1,823 lines         █████████████████████████   100.00 % 
 Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 K                        0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Glm                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 56.66% of written lines came from AI
-📚 Verbose Prompter — average 1,503 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🔍 Hands-On Reviewer — 57.31% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 15.4% of written lines came from AI
+📄 Detailed Prompter — average 1,002 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🔍 Hands-On Reviewer — 90.36% of changed lines were hand-edited
 ```
 
 
