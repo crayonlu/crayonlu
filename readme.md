@@ -83,47 +83,47 @@
 #### Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C435%20hrs%2046%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C438%20hrs-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-262%20hrs%2014%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-264%20hrs%2013%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-19.01%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-19.29%20million%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-TypeScript               18 hrs 7 mins       █████████████░░░░░░░░░░░░   53.46 % 
-Other                    9 hrs 34 mins       ███████░░░░░░░░░░░░░░░░░░   28.24 % 
-Markdown                 2 hrs 34 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
-JSON                     1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
-YAML                     56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
+TypeScript               16 hrs 34 mins      ██████████████░░░░░░░░░░░   56.12 % 
+Other                    7 hrs 51 mins       ███████░░░░░░░░░░░░░░░░░░   26.58 % 
+Markdown                 1 hr 59 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
+JSON                     1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
+YAML                     55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 29 hrs 17 mins (86.4%)
+⏱ AI Coding Time: 26 hrs 29 mins (89.67%)
 
-✍️ 7,242 lines written by AI, 2,139 lines written by hand (77.2% AI-written)
+✍️ 3,850 lines written by AI, 1,572 lines written by hand (71.01% AI-written)
 
-🔤 1,128,467,629 Input Tokens, 4,567,285 Output Tokens
+🔤 582,212,260 Input Tokens, 3,123,042 Output Tokens
 
-💵 $3136.06 Estimated AI Cost This Week
+💵 $1430.78 Estimated AI Cost This Week
 
-🧠 148 AI Sessions, 552 AI Prompts
+🧠 145 AI Sessions, 532 AI Prompts
 
-Grok                     3,915 lines         ██████████░░░░░░░░░░░░░░░   39.87 % 
-GPT                      3,837 lines         ██████████░░░░░░░░░░░░░░░   39.07 % 
-Codex-Vscode             2,068 lines         █████░░░░░░░░░░░░░░░░░░░░   21.06 % 
-Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Grok                     4,668 lines         █████████████████████░░░░   82.66 % 
+GPT                      491 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   08.69 % 
+Codex-Vscode             488 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
 Grok-Build               0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 77.2% of written lines came from AI
-📚 Verbose Prompter — average 4,412 characters per prompt
+🤖 AI-Driven — 71.01% of written lines came from AI
+📚 Verbose Prompter — average 4,769 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 18.91% of changed lines were hand-edited
+🚀 High AI Trust — 26.17% of changed lines were hand-edited
 ```
 
 
