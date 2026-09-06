@@ -87,31 +87,31 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-291%20hrs%2017%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-19.83%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-20.31%20million%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-TypeScript               9 hrs 14 mins       ████████░░░░░░░░░░░░░░░░░   30.88 % 
-Other                    5 hrs               ████░░░░░░░░░░░░░░░░░░░░░   16.73 % 
-TeX                      4 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
-YAML                     2 hrs 30 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 % 
-Python                   2 hrs 25 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 % 
+TypeScript               7 hrs 51 mins       ███████░░░░░░░░░░░░░░░░░░   27.64 % 
+Other                    4 hrs 54 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.27 % 
+TeX                      4 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.19 % 
+YAML                     2 hrs 30 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.80 % 
+Python                   2 hrs 25 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 25 hrs 26 mins (85.03%)
+⏱ AI Coding Time: 24 hrs 28 mins (86.09%)
 
-✍️ 4,180 lines written by AI, 174 lines written by hand (96.0% AI-written)
+✍️ 4,180 lines written by AI, 105 lines written by hand (97.55% AI-written)
 
-🔤 132,675,428 Input Tokens, 1,550,091 Output Tokens
+🔤 71,828,855 Input Tokens, 1,420,570 Output Tokens
 
-💵 $350.32 Estimated AI Cost This Week
+💵 $269.84 Estimated AI Cost This Week
 
-🧠 54 AI Sessions, 288 AI Prompts
+🧠 50 AI Sessions, 267 AI Prompts
 
 GPT                      3,163 lines         ██████████████████░░░░░░░   72.83 % 
 Grok                     883 lines           █████░░░░░░░░░░░░░░░░░░░░   20.33 % 
@@ -120,10 +120,10 @@ Codex-Vscode             127 lines           █░░░░░░░░░░�
 Glm                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 96.0% of written lines came from AI
-📄 Detailed Prompter — average 885 characters per prompt
+🤖 AI-Driven — 97.55% of written lines came from AI
+📄 Detailed Prompter — average 998 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 4.11% of changed lines were hand-edited
+🚀 High AI Trust — 2.45% of changed lines were hand-edited
 ```
 
 
