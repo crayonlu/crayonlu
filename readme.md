@@ -93,36 +93,34 @@
 
 ```text
 💬 Programming Languages: 
-Swift                    1 hr 30 mins        ███████████████░░░░░░░░░░   60.65 % 
-Other                    49 mins             ████████░░░░░░░░░░░░░░░░░   33.00 % 
-TOML                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
-XML                      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+Swift                    24 mins             ███████████████░░░░░░░░░░   60.03 % 
+Other                    11 mins             ███████░░░░░░░░░░░░░░░░░░   27.43 % 
+TOML                     4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.18 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 23 mins (96.24%)
+⏱ AI Coding Time: 36 mins (87.46%)
 
-✍️ 230 lines written by AI, 151 lines written by hand (60.37% AI-written)
+✍️ 0 lines written by AI, 129 lines written by hand (0.0% AI-written)
 
-🔤 142,351,822 Input Tokens, 450,823 Output Tokens
+🔤 131,003,972 Input Tokens, 304,934 Output Tokens
 
-💵 $435.72 Estimated AI Cost This Week
+💵 $398.38 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 28 AI Prompts
+🧠 2 AI Sessions, 12 AI Prompts
 
-GPT                      230 lines           █████████████████████████   100.00 % 
 Cn:Deepseek              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Glm                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Cn:Glm                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 60.37% of written lines came from AI
-📝 Concise Prompter — average 102 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🔍 Hands-On Reviewer — 52.38% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 110 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 
