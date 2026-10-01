@@ -93,33 +93,31 @@
 
 ```text
 💬 Programming Languages: 
-Swift                    24 mins             ███████████████░░░░░░░░░░   60.03 % 
-Other                    11 mins             ███████░░░░░░░░░░░░░░░░░░   27.43 % 
-TOML                     4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.18 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
+Other                    11 mins             █████████████████░░░░░░░░   68.63 % 
+TOML                     4 mins              ███████░░░░░░░░░░░░░░░░░░   27.97 % 
+YAML                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 36 mins (87.46%)
+⏱ AI Coding Time: 11 mins (68.63%)
 
 ✍️ 0 lines written by AI, 129 lines written by hand (0.0% AI-written)
 
-🔤 131,003,972 Input Tokens, 304,934 Output Tokens
+🔤 130,766,090 Input Tokens, 292,242 Output Tokens
 
-💵 $398.38 Estimated AI Cost This Week
+💵 $396.68 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 12 AI Prompts
+🧠 1 AI Sessions, 8 AI Prompts
 
 Cn:Deepseek              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Glm                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 110 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
+📝 Concise Prompter — average 114 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
