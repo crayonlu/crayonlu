@@ -107,11 +107,11 @@ Python                   1 hr 10 mins        ██░░░░░░░░░�
 
 ✍️ 881 lines written by AI, 163 lines written by hand (84.39% AI-written)
 
-🔤 1,798,799,214 Input Tokens, 7,384,154 Output Tokens
+🔤 1,775,168,584 Input Tokens, 7,361,158 Output Tokens
 
-💵 $4966.81 Estimated AI Cost This Week
+💵 $4895.57 Estimated AI Cost This Week
 
-🧠 171 AI Sessions, 314 AI Prompts
+🧠 170 AI Sessions, 311 AI Prompts
 
 GPT                      881 lines           █████████████████████████   100.00 % 
 Cn:Deepseek              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
@@ -121,7 +121,7 @@ DeepSeek                 0 lines             ░░░░░░░░░░░�
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 84.39% of written lines came from AI
-📚 Verbose Prompter — average 2,072 characters per prompt
+📚 Verbose Prompter — average 2,092 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 16.18% of changed lines were hand-edited
 ```
