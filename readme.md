@@ -83,46 +83,45 @@
 #### Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C499%20hrs%207%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C499%20hrs%2044%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-357%20hrs%2033%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-358%20hrs%2038%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-23.35%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-23.48%20million%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Other                    1 hr 20 mins        ████████████░░░░░░░░░░░░░   46.58 % 
-Markdown                 1 hr 13 mins        ███████████░░░░░░░░░░░░░░   42.57 % 
-Python                   9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.55 % 
-MDX                      9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Other                    3 hrs 13 mins       █████████████████░░░░░░░░   66.87 % 
+Markdown                 49 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.01 % 
+TypeScript               22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
+Git Config               14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.98 % 
+Python                   9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 19 mins (80.36%)
+⏱ AI Coding Time: 4 hrs 12 mins (87.21%)
 
 ✍️ 0 lines written by AI, 134 lines written by hand (0.0% AI-written)
 
-🔤 168,849,752 Input Tokens, 662,416 Output Tokens
+🔤 426,733,900 Input Tokens, 1,264,510 Output Tokens
 
-💵 $668.62 Estimated AI Cost This Week
+💵 $1299.17 Estimated AI Cost This Week
 
-🧠 13 AI Sessions, 33 AI Prompts
+🧠 12 AI Sessions, 65 AI Prompts
 
-Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 GLM                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Cn:Deepseek              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Glm                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+DeepSeek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Global:Glm               0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📄 Detailed Prompter — average 915 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
+📝 Concise Prompter — average 78 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
