@@ -93,35 +93,35 @@
 
 ```text
 💬 Programming Languages: 
-Other                    3 hrs 41 mins       █████████████████░░░░░░░░   68.11 % 
-Markdown                 49 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
-TypeScript               29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.07 % 
-Git Config               14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 % 
-Python                   9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
+Other                    2 hrs 53 mins       ████████████████░░░░░░░░░   62.66 % 
+Markdown                 49 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.73 % 
+TypeScript               29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.62 % 
+Git Config               14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
+Python                   9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 40 mins (86.21%)
+⏱ AI Coding Time: 3 hrs 52 mins (83.86%)
 
 ✍️ 0 lines written by AI, 139 lines written by hand (0.0% AI-written)
 
-🔤 349,134,517 Input Tokens, 1,333,847 Output Tokens
+🔤 187,287,776 Input Tokens, 726,939 Output Tokens
 
-💵 $1062.97 Estimated AI Cost This Week
+💵 $568.33 Estimated AI Cost This Week
 
-🧠 12 AI Sessions, 66 AI Prompts
+🧠 8 AI Sessions, 50 AI Prompts
 
-Cn:Deepseek              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 DeepSeek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 GLM                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Cn:Deepseek              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Global:Glm               0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 323 characters per prompt
+📝 Concise Prompter — average 417 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
