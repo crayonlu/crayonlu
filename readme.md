@@ -83,9 +83,9 @@
 #### Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C500%20hrs%2018%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C501%20hrs%2017%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-360%20hrs%2018%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-363%20hrs%204%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-23.95%20million%20lines%20of%20code-blue?style=flat)
 
@@ -93,36 +93,36 @@
 
 ```text
 💬 Programming Languages: 
-Other                    2 hrs 48 mins       █████████████████████░░░░   83.19 % 
-TypeScript               24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.83 % 
-Markdown                 5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
-TOML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
-SSH Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
+Other                    3 hrs 35 mins       ██████████████████░░░░░░░   71.47 % 
+Go                       36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.14 % 
+TypeScript               20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.84 % 
+JSON                     19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.40 % 
+Markdown                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 1 min (89.4%)
+⏱ AI Coding Time: 4 hrs 46 mins (95.23%)
 
-✍️ 0 lines written by AI, 5 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 301,246,251 Input Tokens, 526,968 Output Tokens
+🔤 640,393,037 Input Tokens, 2,923,759 Output Tokens
 
-💵 $907.20 Estimated AI Cost This Week
+💵 $1870.04 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 51 AI Prompts
+🧠 33 AI Sessions, 96 AI Prompts
 
 Cn:Deepseek              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Cn:Glm                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 GLM                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Global:Hy                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+DeepSeek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 441 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📚 Verbose Prompter — average 1,574 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
