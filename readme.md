@@ -83,9 +83,9 @@
 #### Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C517%20hrs%2059%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C518%20hrs%2028%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-415%20hrs%2021%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-416%20hrs-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-26.62%20million%20lines%20of%20code-blue?style=flat)
 
@@ -93,34 +93,34 @@
 
 ```text
 💬 Programming Languages: 
-Other                    10 hrs 2 mins       █████████████████████░░░░   85.69 % 
-Markdown                 53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
-Common Lisp              18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
-C                        14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
-CSS                      11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
+Other                    5 hrs 33 mins       ███████████████████░░░░░░   76.05 % 
+Markdown                 42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.65 % 
+TypeScript               28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
+Common Lisp              18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
+C                        14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 hrs 49 mins (92.45%)
+⏱ AI Coding Time: 6 hrs 26 mins (88.2%)
 
-✍️ 0 lines written by AI, 404 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 339 lines written by hand (0.0% AI-written)
 
-🔤 785,272,330 Input Tokens, 2,463,362 Output Tokens
+🔤 310,952,320 Input Tokens, 1,282,289 Output Tokens
 
-💵 $2395.40 Estimated AI Cost This Week
+💵 $954.72 Estimated AI Cost This Week
 
-🧠 19 AI Sessions, 220 AI Prompts
+🧠 18 AI Sessions, 147 AI Prompts
 
 DeepSeek                 31 lines            █████████████████████████   100.00 % 
 Tencent Hy               0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 286 characters per prompt
-🔁 Iterative Prompter — average 12 prompts per session
-🔍 Hands-On Reviewer — 93.87% of changed lines were hand-edited
+📝 Concise Prompter — average 74 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🔍 Hands-On Reviewer — 92.4% of changed lines were hand-edited
 ```
 
 
