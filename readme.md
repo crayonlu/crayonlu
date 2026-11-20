@@ -93,34 +93,32 @@
 
 ```text
 💬 Programming Languages: 
-Other                    2 hrs 41 mins       █████████████████░░░░░░░░   69.19 % 
-Markdown                 42 mins             █████░░░░░░░░░░░░░░░░░░░░   18.14 % 
-TypeScript               28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Other                    8 hrs 23 mins       ████████████████████████░   94.53 % 
+TypeScript               28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 34 mins (91.98%)
+⏱ AI Coding Time: 8 hrs 42 mins (98.14%)
 
-✍️ 0 lines written by AI, 38 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 176,775,352 Input Tokens, 795,373 Output Tokens
+🔤 512,846,252 Input Tokens, 1,923,738 Output Tokens
 
-💵 $544.89 Estimated AI Cost This Week
+💵 $1567.39 Estimated AI Cost This Week
 
-🧠 12 AI Sessions, 74 AI Prompts
+🧠 26 AI Sessions, 184 AI Prompts
 
-DeepSeek                 31 lines            █████████████████████████   100.00 % 
-Tencent Hy               0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+DeepSeek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 72 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🔍 Hands-On Reviewer — 60.76% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📝 Concise Prompter — average 94 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 
