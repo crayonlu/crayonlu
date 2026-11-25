@@ -93,25 +93,25 @@
 
 ```text
 💬 Programming Languages: 
-Other                    3 hrs 35 mins       █████████████████░░░░░░░░   69.58 % 
-Markdown                 58 mins             █████░░░░░░░░░░░░░░░░░░░░   18.91 % 
-TypeScript               28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.13 % 
-Go                       7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+Other                    12 hrs 21 mins      ███████████████████████░░   91.84 % 
+Markdown                 58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.24 % 
+Go                       7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 32 mins (88.04%)
+⏱ AI Coding Time: 12 hrs 59 mins (96.55%)
 
-✍️ 0 lines written by AI, 9 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 10 lines written by hand (0.0% AI-written)
 
-🔤 160,417,789 Input Tokens, 805,969 Output Tokens
+🔤 515,169,667 Input Tokens, 2,472,256 Output Tokens
 
-💵 $493.34 Estimated AI Cost This Week
+💵 $1582.59 Estimated AI Cost This Week
 
-🧠 18 AI Sessions, 93 AI Prompts
+🧠 31 AI Sessions, 293 AI Prompts
 
 DeepSeek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Vscode                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
@@ -119,8 +119,8 @@ Github-Copilot-Cli       0 lines             ░░░░░░░░░░░�
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 234 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
+📄 Detailed Prompter — average 575 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
