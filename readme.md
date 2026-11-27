@@ -93,25 +93,25 @@
 
 ```text
 💬 Programming Languages: 
-Other                    6 hrs 38 mins       █████████████████████░░░░   85.82 % 
-Markdown                 58 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.60 % 
-Go                       7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+Other                    3 hrs 56 mins       ████████████████████░░░░░   78.25 % 
+Markdown                 58 mins             █████░░░░░░░░░░░░░░░░░░░░   19.32 % 
+Go                       7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 16 mins (93.99%)
+⏱ AI Coding Time: 4 hrs 34 mins (90.79%)
 
 ✍️ 0 lines written by AI, 10 lines written by hand (0.0% AI-written)
 
-🔤 324,930,903 Input Tokens, 1,477,873 Output Tokens
+🔤 191,195,191 Input Tokens, 870,768 Output Tokens
 
-💵 $996.96 Estimated AI Cost This Week
+💵 $586.65 Estimated AI Cost This Week
 
-🧠 27 AI Sessions, 162 AI Prompts
+🧠 15 AI Sessions, 114 AI Prompts
 
 DeepSeek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Vscode                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
@@ -119,8 +119,8 @@ Github-Copilot-Cli       0 lines             ░░░░░░░░░░░�
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📄 Detailed Prompter — average 984 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
+📝 Concise Prompter — average 246 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
