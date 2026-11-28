@@ -87,40 +87,36 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-418%20hrs%2052%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-26.76%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-26.75%20million%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Other                    3 hrs 56 mins       ████████████████████░░░░░   78.25 % 
-Markdown                 58 mins             █████░░░░░░░░░░░░░░░░░░░░   19.32 % 
-Go                       7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Other                    53 mins             ██████████████░░░░░░░░░░░   56.31 % 
+Markdown                 41 mins             ███████████░░░░░░░░░░░░░░   43.68 % 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 34 mins (90.79%)
+⏱ AI Coding Time: 1 hr 13 mins (77.76%)
 
-✍️ 0 lines written by AI, 10 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 9 lines written by hand (0.0% AI-written)
 
-🔤 191,195,191 Input Tokens, 870,768 Output Tokens
+🔤 23,893,293 Input Tokens, 193,806 Output Tokens
 
-💵 $586.65 Estimated AI Cost This Week
+💵 $74.59 Estimated AI Cost This Week
 
-🧠 15 AI Sessions, 114 AI Prompts
+🧠 7 AI Sessions, 29 AI Prompts
 
 DeepSeek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Vscode                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Github-Copilot-Cli       0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 246 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
+📝 Concise Prompter — average 54 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
